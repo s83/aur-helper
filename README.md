@@ -1,5 +1,5 @@
 # aur-helper
-Minimalistic AUR package installer using Shell and CURL
+Safe interactive & minimalistic AUR package installer using Shell and CURL
 
 # command
 
